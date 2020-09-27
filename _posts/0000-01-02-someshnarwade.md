@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Made the second slide in my-slide branch
+The problem with stealing quotes off internet is you never know if they are genuine.
 Use the left arrow to go back!
